@@ -43,4 +43,5 @@
 /var/package/*
 !/var/package/*.xml
 
-vendor/
+vendor/*
+.phpunit.cache/*
